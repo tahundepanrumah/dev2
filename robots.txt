@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://develop2.evvnt.com/sitemap.xml
